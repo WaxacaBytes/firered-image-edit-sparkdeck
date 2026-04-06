@@ -1,9 +1,9 @@
-# FireRed Image Edit 1.1 SparkDeck Image
+# FireRed Image Edit 1.1 Spark AI Hub Image
 
 Thin container wrapper for running a Gradio UI around `FireRedTeam/FireRed-Image-Edit-1.1` on NVIDIA DGX Spark.
 
 Goals:
-- no on-device Docker build during SparkDeck install
+- no on-device Docker build during Spark AI Hub install
 - ARM64 CUDA 13 image suitable for DGX Spark
 - model downloads stored in Docker volumes at runtime
 
